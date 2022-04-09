@@ -70,7 +70,7 @@ I want to make my own Deep Learning Engine. I know that you wonder I make it fro
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Simple Backprop
+- [x] Simple Backprop
 - [ ] Optimizer Functions
   - [ ] Gradient Descent
   - [ ] Adam
